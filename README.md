@@ -2,7 +2,7 @@
 A Machine Learning web application that predicts flight departure delay categories based on flight and airport information.
 
 🚀 Live Demo
-Streamlit App: https://https://intelligentflightdelayprediction-4dxrum4qzckrfr8ssyunun.streamlit.app/
+Streamlit App: https://intelligentflightdelayprediction-4dxrum4qzckrfr8ssyunun.streamlit.app/
 
 📌 Project Overview
 This project uses Machine Learning and XGBoost to predict flight delay severity. Users can enter flight-related information through a Streamlit web interface and receive a predicted delay category.
